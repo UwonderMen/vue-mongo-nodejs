@@ -21,6 +21,7 @@
 
 >初学vue供鉴赏 ^-^ ,如果有什么疑问或者建议希望联系菜鸟的我，*qq邮箱：1032869676@qq.com*
 
+###如果没有安装nodejs，建议去odejs官网安装，同时你的得有数据库，主要使用mongo数据库
 ###git clone 下后npm install(使用淘宝镜像cnpm install)
 
 
